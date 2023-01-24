@@ -1,9 +1,17 @@
-# [notion-nist-cybersecurity-framework](https://egrzeszczak-public.notion.site/NIST-Cybersecurity-Framework-1a75c326a4d24f37902398e42613d59d)
+# notion-nist-cybersecurity-framework
 
-![](/public/kanban.png)
+Hi,
 
-This is a NIST CSF template you can use for your organization in Notion
+This is a Notion template for the NIST Cybersecurity Framework free for you to use. You can get the template [here](https://egrzeszczak-public.notion.site/NIST-Cybersecurity-Framework-for-Notion-1538ea863a794fe1b0ca8eeb10adc025).
 
-### [NIST CSF Template](https://egrzeszczak-public.notion.site/NIST-Cybersecurity-Framework-1a75c326a4d24f37902398e42613d59d)
+
+![](/public/1.png)
+![](/public/2.png)
+![](/public/4.png)
+![](/public/3.png)
+![](/public/5.png)
+
+
+### [NIST Cybersecurity Framework for Notion](https://egrzeszczak-public.notion.site/NIST-Cybersecurity-Framework-for-Notion-1538ea863a794fe1b0ca8eeb10adc025)
 
 ### [Try Notion](https://notion.so)
